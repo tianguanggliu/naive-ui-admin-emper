@@ -18,39 +18,6 @@
 
 账号：admin，密码：123456（随意）
 
-## 提示
-
-如果这个版本的功能和组件，并不能满足您的需求，不妨看看，我们全新 `NaiveAdmin v2` 他或许能让您眼前一亮O(∩_∩)O哈哈~
-
-[NaiveAdmin 官网](https://www.naiveadmin.com)
-
-[NaiveAdmin v2 预览](https://pro.naiveadmin.com)
-
-[NaiveAdmin v2 变更日志](https://www.naiveadmin.com/guide/changelog)
-
-## 新品
-
-### Antd vue
-
-新产品，如果您选的技术栈是 `Antd` 的话，不妨看看
-
-[NaiveAdmin Antd 预览](https://antd.naiveadmin.com)
-
-### Arco vue
-
-新产品，智能设计体系，连接轻盈体验
-
-[NaiveAdmin Arco 预览](https://arco.naiveadmin.com)
-
-### Element Plus
-
-新产品，面向设计师和开发者的组件库
-
-[Element Plus Admin 预览](https://element.naiveadmin.com)
-
-以上版本同时具备 `NaiveAdmin v2` 功能/组件/页面，一如既往、开箱即用，欢迎前往查看。
-
-
 ## 文档
 
 [v1文档地址](https://naive-ui-admin-docs.vercel.app)
@@ -140,18 +107,3 @@ yarn build
 | :-: | :-: | :-: | :-: | :-: |
 | not support | last 2 versions | last 2 versions | last 2 versions | last 2 versions |
 
-## 维护者
-[@Ah jung](https://github.com/jekip)
-
-## 交流
-
-`Naive Ui Admin` 使用或者其他问题，都可以在群内讨论或提问。
-
-![abelianGroup](https://user-images.githubusercontent.com/19426584/160335146-c28dd205-4600-4d62-b2c6-6456034ab7b1.jpg)
-
-## 赞助
-#### 如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励 🍹。
-
-![donate](https://jekip.github.io/docs/images/sponsor.png)
-
-[Paypal Me](https://www.paypal.com/paypalme/majunping)
